@@ -1,0 +1,11 @@
+.room{
+    text-align: center;
+    width: 200px;
+    height: 500px;
+    background-color: darkgray;
+}
+
+.textarea1{
+    width: 190px;
+    height: 490px;
+}
