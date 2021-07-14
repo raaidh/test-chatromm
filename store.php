@@ -5,7 +5,7 @@
 // Get the email from the form
 $email = $_POST['email'];
 // We want the file to be a text file right?
-$ex = "db.txt";
+//$ex = "db.txt";
 // Try to open a file named $file$ex (johndoe.txt for example)
 // Because this file doesn't exist yet the server creates it
 $write = fopen("$ex","w");
