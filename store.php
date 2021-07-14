@@ -22,6 +22,6 @@ fclose($write);
 //rename ("$file","$data$file$ex");
 // The script is done, send the user to another page (Just read the address below and you'll get it)
 // Its just an example fyi change to what you want
-header('Location: https://raaidh.github.io/test-chatromm/');
+//header('Location: https://raaidh.github.io/test-chatromm/');
 exit;
 ?>
